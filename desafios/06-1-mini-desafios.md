@@ -46,7 +46,7 @@ Crie no site [dbdiagram.io](https://dbdiagram.io/home) a modelagem de um banco d
   - `cars` - informações específicas do carro (cor, placa, etc);
   - `models` - informações gerais do carro (marca, modelo, etc);
   - `orders` - pedidos de locação.
-- Todos as tabelas devem possuir uma primary key;
+- Todas as tabelas devem possuir uma primary key;
 - Todas as tabelas precisam possuir, no mínimo, 5 campos (exceto a tabela resultante do relacionamento n:m);
 - O relacionamento entre agência e endereço deve ser 1:1;
 - O relacionamento entre modelo e carro deve ser 1:n;
